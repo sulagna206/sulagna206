@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @sulagna206
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web devlopment.
+- 👋 Hi, I’m @Sulagna-Nandi
+- 👀 CS undergrad at Silicon Institute of Technology, Bhubaneswar , Odisha
+- 🌱 BInterested in Data Science and learning new concepts.
+- I also have knowledge on languages of C,Java,Python,HTML,CSS,JS,PHP,R,SQL
+- Interested in Big Data
 
 <!---
 sulagna206/sulagna206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
