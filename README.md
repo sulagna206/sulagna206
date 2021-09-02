@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sulagna-Nandi
 - 👀 CS undergrad at Silicon Institute of Technology, Bhubaneswar , Odisha
-- 🌱 BInterested in Data Science and learning new concepts.
+- 🌱 Interested in Data Science and learning new concepts.
 - I also have knowledge on languages of C,Java,Python,HTML,CSS,JS,PHP,R,SQL
 - Interested in Big Data
 
